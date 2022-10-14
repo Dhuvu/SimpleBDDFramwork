@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
 
         features ="C:\\Users\\HP\\IdeaProjects\\SimpleBDDFramwork\\src\\test\\resources\\Features\\Registration.feature",
 
-        glue = {"StepDefinitions"},
+        glue = {"StepDefinition"},
         dryRun = false
 )
 public class TestRunner {
